@@ -13,6 +13,7 @@
 
 ![Breadboard](images/breadboard.jpg)
 
+### Connection Guide
 ![Breadboard Guide](images/breadboard-guide.png)
 
 ![Breadboard Guide](images/breadboard-connections.jpg)
