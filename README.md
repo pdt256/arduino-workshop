@@ -1,12 +1,15 @@
 # Arduino Workshop
 
-## Introduction
+## Tinkercad
+
+* [Tinkercad Circuits](https://www.tinkercad.com/circuits)
 
 ## Setup
 
-`TODO: description`
+Install the Arduino IDE and CH340G driver.
 
-* [Install Drivers](docs/InstallDrivers.md)
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+* [CH340G Drivers](docs/InstallDrivers.md)
 
 ## Parts
 
@@ -14,39 +17,31 @@
 
 * [Parts Details](docs/PartsDetails.md)
 
-## Day 1
+## Basic Exercises
 
-`TODO: description`
-
-* Blink
+* LED Blink
   * [Blink using Delay](https://www.arduino.cc/en/Tutorial/Blink)
   * [Blink without Delay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
-* Button Turns on/off LED
+* Button
   * [Loop](https://www.arduino.cc/en/Tutorial/Button)
   * [Interrupt](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
-* Button Turns on Buzzer
+* Buzzer
   * [Tone Melody](https://www.arduino.cc/en/Tutorial/toneMelody)
-
-## Day 2
-
-`TODO: description`
-
-* Button Turns on Buzzer
+* Final Project
   * [Tone Keyboard](https://www.arduino.cc/en/Tutorial/toneKeyboard)
+  * [Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
+  * [Arduino Project Hub](https://create.arduino.cc/projecthub)
+
+## Communication Exercises
+
 * I²C Communication
   * [Master Reader](https://www.arduino.cc/en/Tutorial/MasterReader)
   * [Master Writer](https://www.arduino.cc/en/Tutorial/MasterWriter)
 
-## Day 3
-
-`TODO: description`
+## Advanced IoT Topics
 
 ### Potential Topics
 
 * [ESP8266 w/ WiFi](https://en.wikipedia.org/wiki/ESP8266)
 * [MySensors](https://www.mysensors.org/)
 * [Firebase real time database](https://firebase.google.com/docs/database/)
-
----
-
-[More Arduino Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)

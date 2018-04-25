@@ -2,6 +2,8 @@
 
 ## CH340G Driver for Arduino Nano clones
 
+The CH340G chip is an FTDI alternative used in Arduino compatible boards to provide USB connectivity.
+
 * Mac OSX
   * <http://www.wch.cn/download/CH341SER_MAC_ZIP.html>
 
