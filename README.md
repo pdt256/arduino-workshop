@@ -13,7 +13,7 @@ Install the Arduino IDE and CH340G driver.
 
 ## Parts
 
-`TODO: real image of parts`
+![Nano on a Breadboard](docs/images/nano-on-breadboard.jpg)
 
 * [Parts Details](docs/PartsDetails.md)
 
@@ -23,13 +23,12 @@ Install the Arduino IDE and CH340G driver.
   * [Blink using Delay](https://www.arduino.cc/en/Tutorial/Blink)
   * [Blink without Delay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
 * Button
-  * [Loop](https://www.arduino.cc/en/Tutorial/Button)
-  * [Interrupt](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
+  * [Input with Internal Pullup](https://www.arduino.cc/en/Tutorial/InputPullupSerial)
 * Buzzer
   * [Tone Melody](https://www.arduino.cc/en/Tutorial/toneMelody)
 * Final Project
-  * [Tone Keyboard](https://www.arduino.cc/en/Tutorial/toneKeyboard)
   * [Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
+  * [Tone Keyboard](https://www.arduino.cc/en/Tutorial/toneKeyboard)
   * [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
 ## Communication Exercises

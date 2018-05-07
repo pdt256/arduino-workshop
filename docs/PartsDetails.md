@@ -1,5 +1,8 @@
 # Parts
 
+
+![Workshop Parts](images/arduino-workshop-parts.jpg)
+
 ## Arduino Nano
 
 Arduino is an open source hardware project started in 2003.
