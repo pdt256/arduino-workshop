@@ -39,8 +39,6 @@ Install the Arduino IDE and CH340G driver.
 
 ## Advanced IoT Topics
 
-### Potential Topics
-
 * [ESP8266 w/ WiFi](https://en.wikipedia.org/wiki/ESP8266)
 * [MySensors](https://www.mysensors.org/)
 * [Firebase real time database](https://firebase.google.com/docs/database/)
