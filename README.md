@@ -1,7 +1,5 @@
 # Arduino Workshop
 
-* [Etherpad Notes](https://public.etherpad-mozilla.org/p/arduino-workshop)
-
 ## Tinkercad
 
 * [Tinkercad Circuits](https://www.tinkercad.com/circuits)
